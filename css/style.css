@@ -51,12 +51,12 @@ background-size: contain;
   margin: 0 auto;
   padding: 8px 30px;
   color: var(--bs-white);
-  background-color:var(--color1);
+  background-color:var(--color2);
 }
 
 .btn-itd:hover{
   color: var(--bs-white);
-  background-color: var(--color2);
+  background-color: var(--color1);
 }
 /*стили раздела"О курсе"*/
 .about{
@@ -85,7 +85,6 @@ background-size: contain;
 
 /*стили раздела"О курсе"*/
 
-
 /*цвета*/
 .color1{
   color:var(--color1)
@@ -102,5 +101,11 @@ background-size: contain;
 .bg2{
   background-color:var(--color2)
 }
-
 /*цвета*/
+
+/*для кого курс*/
+.forwhom h5{
+  padding: 50px;
+  border: 3px solid var(--color1);
+}
+/*для кого курс*/

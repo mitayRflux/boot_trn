@@ -59,7 +59,7 @@ background-size: contain;
   background-color: var(--color2);
 }
 /*стили раздела"О курсе"*/
-.about{
+.about,.shedule{
   background-color: #eee;
 }
 .about i{

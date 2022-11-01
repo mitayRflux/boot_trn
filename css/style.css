@@ -59,7 +59,7 @@ background-size: contain;
   background-color: var(--color2);
 }
 /*стили раздела"О курсе"*/
-.about,.learning{
+.about,.learning,.feedback{
   background-color: #eee;
 }
 .about i{
@@ -121,4 +121,30 @@ background-size: contain;
   border: 2px solid var(--color1);
 }
 /*процесс обучения*/
+
+/*about author*/
+.author{
+  padding-bottom: 0;
+}
+.itd-img{
+  max-width: 260px;
+}
+/*about author*/
+
+/*feedback*/
+.itd-feed{
+  border: 2px solid var(--color1);
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.itd-line{
+  width: 100px;
+  height: 3px;
+  background-color: var(--color2);
+  margin:15px auto 30px;
+}
+/*feedback*/
+
+
 

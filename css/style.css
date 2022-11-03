@@ -3,7 +3,7 @@
   --color2:#52339a;
 }
 
-header,section,footer{
+section{
   padding: 100px 0;
 }
 
@@ -134,6 +134,10 @@ background-size: contain;
 .rounded{
   border-radius: 50% !important;
   border: 2px solid var(--color1);
+}
+
+#footer{
+  padding: 30px 0;
 }
 
 /*feedback
